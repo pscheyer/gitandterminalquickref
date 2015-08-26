@@ -19,7 +19,6 @@ $ ls
 Tells what folders and files are in the current directory.
 
 
-
 ```bash
 $ cd ..
 ```
