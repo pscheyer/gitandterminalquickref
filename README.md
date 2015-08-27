@@ -27,7 +27,7 @@ Moves up one directory.
 ```bash
 $ cd Me<TAB>
 ```
-changes directory into a sub directory that begins with Me. The tab autocompletes the name of the directory. If there is more than one Me—— directory it does not autocomplete- you must input a unique beginning string.
+changes directory into a sub directory that begins with Me. The tab autocompletes the name of the directory. If there is more than one Me—— directory it does not autocomplete- you must input a unique beginning string. It is caps sensitive.
 
 
 ```bash
